@@ -1,6 +1,6 @@
 # VPS-NAMYDEV By MAHPUD  ( MOD ENGLISH )
 ```
-* VPS-AGN (Final Version OF VPS-MX 8.5x)
+* VPS-NAMYDEV (Final Version OF VPS-MX 8.5x)
 ```
 ![logo](https://raw.githubusercontent.com/namydeveloper/VPS-NAMYDEV_English_Official/main/VPS-NAMYDEV.png)
 
